@@ -68,6 +68,10 @@ const StartScreen = ({ startExam }) => {
           <span className="btn-icon">🎓</span>
           <span className="btn-text">Educational Leadership</span>
         </button>
+        <button className="exam-btn" onClick={() => startExam("psychology")}>
+          <span className="btn-icon">🧠</span>
+          <span className="btn-text">Psychology of Learning</span>
+        </button>
         <button className="request-btn" onClick={() => setShowRequestForm(!showRequestForm)}>
           <span className="btn-icon">➕</span>
           <span className="btn-text">Request New Exam</span>

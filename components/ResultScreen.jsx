@@ -84,21 +84,8 @@ const ResultScreen = ({ score, total, restart }) => {
           </div>
           <p className="coffee-text">Support the development with a coffee!</p>
           
-          {/* PhonePe QR Code */}
-          <div className="qr-container">
-            <div className="qr-card">
-              <img 
-                src="https://sole-plum-wmugjkwfm5.edgeone.app/WhatsApp%20Image%202025-10-28%20at%208.08.33%20PM.jpeg" 
-                alt="PhonePe QR Code" 
-                className="qr-image"
-              />
-              <p className="qr-instruction">Scan with any UPI app to pay</p>
-            </div>
-          </div>
           
-          <div className="payment-divider">
-            <span>OR</span>
-          </div>
+          
           
           {/* UPI Copy Card */}
           <div className="upi-container">

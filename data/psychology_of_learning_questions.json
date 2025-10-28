@@ -1,0 +1,1319 @@
+{
+  "course": "Psychology of Learning",
+  "total_questions": 120,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is true regarding learning in psychology?",
+      "options": [
+        "Learning has not been an important topic in psychology",
+        "Learning involves no change in the organism",
+        "Learning focuses on how humans speak",
+        "Learning can be defined in many ways"
+      ],
+      "correct_answer": "Learning can be defined in many ways"
+    },
+    {
+      "id": 2,
+      "question": "Learning is seen as an effect attributed to an element in ____.",
+      "options": [
+        "blood",
+        "environment",
+        "hormones",
+        "none of the above"
+      ],
+      "correct_answer": "environment"
+    },
+    {
+      "id": 3,
+      "question": "Non-associative learning refers to ___ in the intensity of a response as the result of the repeated presentation of a stimulus.",
+      "options": [
+        "a decrease",
+        "an increase",
+        "no change",
+        "none of the above"
+      ],
+      "correct_answer": "a decrease"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a type of learning style?",
+      "options": [
+        "visual",
+        "auditory",
+        "kinesthetic",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 5,
+      "question": "'Psychology as the Behaviorist Views It' is the famous work of ___.",
+      "options": [
+        "Sigmund Freud",
+        "John Watson",
+        "Albert Bandura",
+        "Ivan Pavlov"
+      ],
+      "correct_answer": "John Watson"
+    },
+    {
+      "id": 6,
+      "question": "The state of conscious incompetence may be valuable ___ of a learning experience.",
+      "options": [
+        "at the start",
+        "at the end",
+        "in the middle",
+        "throughout the process"
+      ],
+      "correct_answer": "at the start"
+    },
+    {
+      "id": 7,
+      "question": "Adding to existing student knowledge is known as ___.",
+      "options": [
+        "conceptual change",
+        "conceptual pattern",
+        "conceptual exploration",
+        "conceptual growth"
+      ],
+      "correct_answer": "conceptual growth"
+    },
+    {
+      "id": 8,
+      "question": "Deliberate practice involves the following, except ___.",
+      "options": [
+        "attention",
+        "rehearsal",
+        "repetition",
+        "forgetting"
+      ],
+      "correct_answer": "forgetting"
+    },
+    {
+      "id": 9,
+      "question": "Students persist in the face of challenging tasks and process information more deeply when they adopt ___ goals.",
+      "options": [
+        "performance",
+        "insignificant",
+        "mastery",
+        "repetitive"
+      ],
+      "correct_answer": "mastery"
+    },
+    {
+      "id": 10,
+      "question": "___ refers to a decrease in response rate while ___ refers to an increase in response rate.",
+      "options": [
+        "sensitization, habituation",
+        "meaningful learning, association",
+        "habituation, sensitization",
+        "association, meaningful learning"
+      ],
+      "correct_answer": "habituation, sensitization"
+    },
+    {
+      "id": 11,
+      "question": "According to constructivism, reality is determined by ___.",
+      "options": [
+        "the experiences of the learner",
+        "the blood type of the learner",
+        "the future goals of the learner",
+        "none of the above"
+      ],
+      "correct_answer": "the experiences of the learner"
+    },
+    {
+      "id": 12,
+      "question": "Teachers and instructors who understand the constructivist learning theory understand that their students ___.",
+      "options": [
+        "are all the same",
+        "bring their own unique experiences",
+        "do not demand much effort in the classroom",
+        "are careless"
+      ],
+      "correct_answer": "bring their own unique experiences"
+    },
+    {
+      "id": 13,
+      "question": "The domain of social constructivism is largely attributed to the work done by ___ by adding the focus on societal and peer influence on learning.",
+      "options": [
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "Sigmund Freud",
+        "John Watson"
+      ],
+      "correct_answer": "Lev Vygotsky"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is not a major type of learning described by behavioral psychology?",
+      "options": [
+        "classical conditioning",
+        "operant conditioning",
+        "observational learning",
+        "traditional learning"
+      ],
+      "correct_answer": "traditional learning"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is true according to behaviorism?",
+      "options": [
+        "all behaviors can be unlearned",
+        "all behaviors are directed by one's parents",
+        "all behaviors are fundamentally destructive in nature",
+        "all behaviors are unobservable"
+      ],
+      "correct_answer": "all behaviors can be unlearned"
+    },
+    {
+      "id": 16,
+      "question": "In ___ conditioning, presentation of unconditioned stimulus precedes the presentation of the conditioned stimulus.",
+      "options": [
+        "backward",
+        "delay",
+        "trace",
+        "simultaneous"
+      ],
+      "correct_answer": "backward"
+    },
+    {
+      "id": 17,
+      "question": "Smiling and complimenting students for good performance is a type of ______.",
+      "options": [
+        "negative punishment",
+        "positive punishment",
+        "negative reinforcement",
+        "positive reinforcement"
+      ],
+      "correct_answer": "positive reinforcement"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following psychologists was instrumental in engendering the dramatic shift from behaviorism to cognitive theories?",
+      "options": [
+        "Tolman",
+        "Bruner",
+        "Gestalt",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 19,
+      "question": "IQ is a typical measurement for ____.",
+      "options": [
+        "intelligence",
+        "personality",
+        "emotions",
+        "classical learning"
+      ],
+      "correct_answer": "intelligence"
+    },
+    {
+      "id": 20,
+      "question": "BBL deals with the concept of learning in a ____ context.",
+      "options": [
+        "neuro-physiological",
+        "cognitive",
+        "social",
+        "behavioral"
+      ],
+      "correct_answer": "neuro-physiological"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is true?",
+      "options": [
+        "Human memory involves the ability to only preserve information",
+        "Human memory involves the ability to only recover information",
+        "Human memory involves the ability to neither preserve not recover information",
+        "Human memory involves the ability to both preserve and recover information"
+      ],
+      "correct_answer": "Human memory involves the ability to both preserve and recover information"
+    },
+    {
+      "id": 22,
+      "question": "___ refers to connections between the nerve cells",
+      "options": [
+        "Storage",
+        "Synapses",
+        "Neuron",
+        "Blood"
+      ],
+      "correct_answer": "Synapses"
+    },
+    {
+      "id": 23,
+      "question": "In order to create a new memory, information must be changed into ___.",
+      "options": [
+        "a usable form",
+        "a long form",
+        "a short form",
+        "a visual form"
+      ],
+      "correct_answer": "a usable form"
+    },
+    {
+      "id": 24,
+      "question": "The memory ___ process allows us to bring stored memories into conscious awareness.",
+      "options": [
+        "storage",
+        "retrieval",
+        "encoding",
+        "forgetting"
+      ],
+      "correct_answer": "retrieval"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is not a major domain of cognition?",
+      "options": [
+        "Judgment",
+        "Attention",
+        "Aggression",
+        "Intelligence"
+      ],
+      "correct_answer": "Aggression"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is not an assumption of the information processing view?",
+      "options": [
+        "Information is processed in steps or stages",
+        "There are limits on how much information can be processed",
+        "The human information processing system is interactive",
+        "Information processing is analogous to computer processing"
+      ],
+      "correct_answer": "There are limits on how much information can be processed"
+    },
+    {
+      "id": 27,
+      "question": "___ refers to rote rehearsal of repetition",
+      "options": [
+        "elaborative rehearsal",
+        "maintenance rehearsal",
+        "meaningful rehearsal",
+        "none of the above"
+      ],
+      "correct_answer": "maintenance rehearsal"
+    },
+    {
+      "id": 28,
+      "question": "___ presentations can enhance working memory capacity",
+      "options": [
+        "multimodal",
+        "unimodal",
+        "one by one",
+        "antimodal"
+      ],
+      "correct_answer": "multimodal"
+    },
+    {
+      "id": 29,
+      "question": "Episodic and semantic memories are categorized under ___ memory",
+      "options": [
+        "procedural",
+        "structural",
+        "phonemic",
+        "declarative"
+      ],
+      "correct_answer": "declarative"
+    },
+    {
+      "id": 30,
+      "question": "According to the neural network model, memory capacity depends on ___",
+      "options": [
+        "complexity of the synapses",
+        "sparseness of representations",
+        "spatial and temporal correlations between memories",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 31,
+      "question": "Creative thinking is the ability to generate ___ ideas.",
+      "options": [
+        "innovative",
+        "unconventional",
+        "useful",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 32,
+      "question": "___ are representative items within each concept.",
+      "options": [
+        "Constructs",
+        "Symbols",
+        "Prototypes",
+        "Categories"
+      ],
+      "correct_answer": "Prototypes"
+    },
+    {
+      "id": 33,
+      "question": "A mental representation can take the form of a ___.",
+      "options": [
+        "word",
+        "image",
+        "sound",
+        "all of the given"
+      ],
+      "correct_answer": "all of the given"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is true?",
+      "options": [
+        "Thinking is a lower mental process",
+        "Thinking is a sub-vocal talking",
+        "Thinking is unrelated to problem solving",
+        "We can only think in numbers or words"
+      ],
+      "correct_answer": "Thinking is a sub-vocal talking"
+    },
+    {
+      "id": 35,
+      "question": "Cognitive architecture is a theory about the ___ that create a mind in natural or artificial systems.",
+      "options": [
+        "structures",
+        "facts",
+        "images",
+        "sounds"
+      ],
+      "correct_answer": "structures"
+    },
+    {
+      "id": 36,
+      "question": "Bloom's Taxonomy is a system of hierarchical models (arranged in a hierarchical rank,) used to categorize ___ into varying levels of complexity.",
+      "options": [
+        "learning objectives",
+        "attention goals",
+        "prototypes",
+        "none of the above"
+      ],
+      "correct_answer": "learning objectives"
+    },
+    {
+      "id": 37,
+      "question": "___ knowledge refers to knowledge of terminology and specific details.",
+      "options": [
+        "Metacognitive",
+        "Conceptual",
+        "Kinesthetic",
+        "Factual"
+      ],
+      "correct_answer": "Factual"
+    },
+    {
+      "id": 38,
+      "question": "Choosing to skim subheadings of unimportant information to get to the information we need as a metacognitive skill is called ___.",
+      "options": [
+        "Skimming",
+        "Rehearsing",
+        "Self-monitoring",
+        "Modifying"
+      ],
+      "correct_answer": "Skimming"
+    },
+    {
+      "id": 39,
+      "question": "___ refers to the ability to regulate your thoughts and set aside any personal biases to come to the best conclusion.",
+      "options": [
+        "Self-regulation",
+        "Openmindedness",
+        "Observation",
+        "Interpretation",
+        "elaboration"
+      ],
+      "correct_answer": "Self-regulation"
+    },
+    {
+      "id": 40,
+      "question": "___ method of solving problems refers to a rule that guarantees the solution to a problem",
+      "options": [
+        "imagination",
+        "trial and error",
+        "analogy",
+        "algorithm"
+      ],
+      "correct_answer": "algorithm"
+    },
+    {
+      "id": 41,
+      "question": "Motivation is seen as a ___ that drives and directs human behavior.",
+      "options": [
+        "hormonal impulse",
+        "mental impulse",
+        "attention deficit",
+        "judgment delay"
+      ],
+      "correct_answer": "mental impulse"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is false regarding motivation?",
+      "options": [
+        "Motivation is an internal process",
+        "Motivation can be directly observed",
+        "Motivation activates people's actions",
+        "None of the above"
+      ],
+      "correct_answer": "Motivation can be directly observed"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following does not come under intrinsic motivation?",
+      "options": [
+        "interests",
+        "social pressure",
+        "curiosity",
+        "self-satisfaction"
+      ],
+      "correct_answer": "social pressure"
+    },
+    {
+      "id": 44,
+      "question": "Doing something/behaving well because one feels pressure from within is called ___.",
+      "options": [
+        "introjected regulation",
+        "amotivation",
+        "identified motivation",
+        "None of the given"
+      ],
+      "correct_answer": "introjected regulation"
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is not a biological need/drive?",
+      "options": [
+        "love",
+        "food",
+        "water",
+        "oxygen"
+      ],
+      "correct_answer": "love"
+    },
+    {
+      "id": 46,
+      "question": "___ theory suggests that people are motivated to take action in order to receive a reward.",
+      "options": [
+        "incentive",
+        "biological",
+        "arousal",
+        "goal setting"
+      ],
+      "correct_answer": "incentive"
+    },
+    {
+      "id": 47,
+      "question": "The Arousal Theory of Motivation was first proposed by ___.",
+      "options": [
+        "Hall",
+        "Watson",
+        "Bandura",
+        "Murray"
+      ],
+      "correct_answer": "Murray"
+    },
+    {
+      "id": 48,
+      "question": "___ theory is based on the assumption that our behavior is based on making a conscious choice from a set of possible alternative behaviors.",
+      "options": [
+        "arousal",
+        "expectancy",
+        "drive",
+        "goal setting"
+      ],
+      "correct_answer": "expectancy"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is not an attribute of effective goal setting?",
+      "options": [
+        "unrealistic goals",
+        "specific goals",
+        "time based goals",
+        "assignable goals"
+      ],
+      "correct_answer": "unrealistic goals"
+    },
+    {
+      "id": 50,
+      "question": "Maslow's hierarchy of needs consists of ___ tiers.",
+      "options": [
+        "four",
+        "three",
+        "six",
+        "five"
+      ],
+      "correct_answer": "five"
+    },
+    {
+      "id": 51,
+      "question": "___ is mainly responsible for popularizing emotional intelligence.",
+      "options": [
+        "John Watson",
+        "Daniel Goleman",
+        "Sigmund Freud",
+        "Albert Bandura"
+      ],
+      "correct_answer": "Daniel Goleman"
+    },
+    {
+      "id": 52,
+      "question": "EQ is used to measure ---.",
+      "options": [
+        "cognitive intelligence",
+        "memory",
+        "emotional intelligence",
+        "attention"
+      ],
+      "correct_answer": "emotional intelligence"
+    },
+    {
+      "id": 53,
+      "question": "Experts suggest that EQ is more important than IQ.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "id": 54,
+      "question": "Being able to put words to feelings refers to ___.",
+      "options": [
+        "emotional responsibility",
+        "emotional cognition",
+        "emotional attention",
+        "emotional literacy"
+      ],
+      "correct_answer": "emotional literacy"
+    },
+    {
+      "id": 55,
+      "question": "The first step in emotional intelligence is ___.",
+      "options": [
+        "perceiving emotions accurately",
+        "reasoning with emotions",
+        "managing emotions",
+        "dismissing emotions"
+      ],
+      "correct_answer": "perceiving emotions accurately"
+    },
+    {
+      "id": 56,
+      "question": "According to nine-layer model pyramid, ___ lies at the bottom of the pyramid.",
+      "options": [
+        "Emotional stimuli",
+        "Self awareness",
+        "Self management",
+        "Transcendence"
+      ],
+      "correct_answer": "Emotional stimuli"
+    },
+    {
+      "id": 57,
+      "question": "The mixed model by ___ claims that EQ is a combination of competencies, skills, and 'facilitators' that contribute to how people express themselves, respond to challenges in their environment, and connect with others.",
+      "options": [
+        "Watson",
+        "Goleman",
+        "Salovey and Mayer",
+        "Bar-On"
+      ],
+      "correct_answer": "Bar-On"
+    },
+    {
+      "id": 58,
+      "question": "The transfer of emotions from one person to another is called ___.",
+      "options": [
+        "social effect",
+        "emotional effect",
+        "social contagion",
+        "emotional contagion"
+      ],
+      "correct_answer": "emotional contagion"
+    },
+    {
+      "id": 59,
+      "question": "Hochschild has given the concept of ___ using the example of flight attendants.",
+      "options": [
+        "emotional indifference",
+        "emotional difficulty",
+        "emotional labor",
+        "emotional literacy"
+      ],
+      "correct_answer": "emotional labor"
+    },
+    {
+      "id": 60,
+      "question": "Review of literature shows that ___ is associated with increasing levels of burnout.",
+      "options": [
+        "emotional intelligence",
+        "deep acting",
+        "surface acting",
+        "emotional literacy"
+      ],
+      "correct_answer": "surface acting"
+    },
+    {
+      "id": 61,
+      "question": "Which of the following is false about learning according to Gagne's definition?",
+      "options": [
+        "It is a change in human disposition",
+        "It persists over a period of time",
+        "It is simply ascribable to processes of growth",
+        "None of the above"
+      ],
+      "correct_answer": "It is simply ascribable to processes of growth"
+    },
+    {
+      "id": 62,
+      "question": "Manual or physical skills come under ___ component of Bloom's taxonomy.",
+      "options": [
+        "Cognitive",
+        "Affective",
+        "Psychomotor",
+        "Physical"
+      ],
+      "correct_answer": "Psychomotor"
+    },
+    {
+      "id": 63,
+      "question": "Reflection, learning and education was explored by ___.",
+      "options": [
+        "Carl Rogers",
+        "John Watson",
+        "Benjamin Bloom",
+        "John Dewey"
+      ],
+      "correct_answer": "John Dewey"
+    },
+    {
+      "id": 64,
+      "question": "The principles of ___ refer to how close in time two events must be for a bond to be formed.",
+      "options": [
+        "behavior",
+        "reinforcement",
+        "repetition",
+        "contiguity"
+      ],
+      "correct_answer": "contiguity"
+    },
+    {
+      "id": 65,
+      "question": "___ gives information to learners about their success or failure concerning the task at hand.",
+      "options": [
+        "Cognitive feedback",
+        "Emotional feedback",
+        "Reinforcement",
+        "Physical feedback"
+      ],
+      "correct_answer": "Cognitive feedback"
+    },
+    {
+      "id": 66,
+      "question": "The ___ orientation to learning has a quality of personal involvement—the whole person in both feeling and cognitive aspects being in the learning event.",
+      "options": [
+        "behavioral",
+        "cognitive",
+        "humanistic",
+        "social"
+      ],
+      "correct_answer": "humanistic"
+    },
+    {
+      "id": 67,
+      "question": "Learning through play is ___ learning.",
+      "options": [
+        "primary",
+        "secondary",
+        "passive",
+        "active"
+      ],
+      "correct_answer": "active"
+    },
+    {
+      "id": 68,
+      "question": "People with ___ learning style are prone to sorting their ideas after speaking, rather than thinking ideas through before.",
+      "options": [
+        "logical",
+        "solitary",
+        "visual",
+        "auditory"
+      ],
+      "correct_answer": "auditory"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following statements is false?",
+      "options": [
+        "Effective instruction is static",
+        "Effective instruction is eclectic",
+        "Effective instruction is generative",
+        "Effective instruction is interactive"
+      ],
+      "correct_answer": "Effective instruction is static"
+    },
+    {
+      "id": 70,
+      "question": "In ADDIE model, I stand for ___.",
+      "options": [
+        "instruction",
+        "implementation",
+        "integration",
+        "induction"
+      ],
+      "correct_answer": "implementation"
+    },
+    {
+      "id": 71,
+      "question": "Pedagogy can be defined as a way of ___ any theoretical topic or academic subject.",
+      "options": [
+        "forgetting",
+        "teaching",
+        "remembering",
+        "memorizing"
+      ],
+      "correct_answer": "teaching"
+    },
+    {
+      "id": 72,
+      "question": "Good pedagogy is about ___.",
+      "options": [
+        "enabling self to be good at rote memorization",
+        "eliciting responses that demonstrate understanding",
+        "hampering cognitive development of learners",
+        "None of the above"
+      ],
+      "correct_answer": "eliciting responses that demonstrate understanding"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is a pedagogical approach in teaching?",
+      "options": [
+        "inductive",
+        "integrative",
+        "instance-based",
+        "intuitive"
+      ],
+      "correct_answer": "integrative"
+    },
+    {
+      "id": 74,
+      "question": "According to the ____ approach, learners are the makers of meaning and knowledge.",
+      "options": [
+        "solitary learning",
+        "passive learning",
+        "constructivist learning",
+        "metalearning"
+      ],
+      "correct_answer": "constructivist learning"
+    },
+    {
+      "id": 75,
+      "question": "Which of the following is false about inquiry-based learning?",
+      "options": [
+        "is a form of passive learning",
+        "includes problem-based learning",
+        "generally used in small scale investigations",
+        "starts by posing questions"
+      ],
+      "correct_answer": "is a form of passive learning"
+    },
+    {
+      "id": 76,
+      "question": "The ___ model describes what effective teachers do in their classrooms to engage students in intellectually challenging work.",
+      "options": [
+        "pedagogical",
+        "systematic",
+        "engagement",
+        "intellectual"
+      ],
+      "correct_answer": "pedagogical"
+    },
+    {
+      "id": 77,
+      "question": "In experiential learning, experiences are structured to require the student to ___.",
+      "options": [
+        "take initiative",
+        "make decisions",
+        "be accountable for results",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 78,
+      "question": "The following are the roles of an instructor in experiential learning, except ___.",
+      "options": [
+        "setting suitable experiences",
+        "posing problems",
+        "supporting students",
+        "blurring the boundaries"
+      ],
+      "correct_answer": "blurring the boundaries"
+    },
+    {
+      "id": 79,
+      "question": "Kolb's experiential learning style theory is typically represented by a ___ -stage learning cycle",
+      "options": [
+        "three",
+        "five",
+        "four",
+        "seven"
+      ],
+      "correct_answer": "four"
+    },
+    {
+      "id": 80,
+      "question": "People with ___ learning style are hands-on learners, and rely on intuition over logic.",
+      "options": [
+        "converging",
+        "accommodating",
+        "integrating",
+        "emotional"
+      ],
+      "correct_answer": "accommodating"
+    },
+    {
+      "id": 81,
+      "question": "A ___ classroom is the changing face of learning.",
+      "options": [
+        "digital",
+        "closed",
+        "passive",
+        "none of the above"
+      ],
+      "correct_answer": "digital"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is not a feature of e-learning?",
+      "options": [
+        "accessibility",
+        "teacher-centeredness",
+        "social justice",
+        "personalization"
+      ],
+      "correct_answer": "teacher-centeredness"
+    },
+    {
+      "id": 83,
+      "question": "Which of the following is a synonym of e-learning?",
+      "options": [
+        "audio-visual learning",
+        "multimedia learning",
+        "distance learning",
+        "none of the above"
+      ],
+      "correct_answer": "none of the above"
+    },
+    {
+      "id": 84,
+      "question": "In ___ e-learning course, the content is simple and comprises text, images, audio, power-point presentation and text questions.",
+      "options": [
+        "simulation-based",
+        "interactive",
+        "powerpoint-driven",
+        "text-driven"
+      ],
+      "correct_answer": "text-driven"
+    },
+    {
+      "id": 85,
+      "question": "Recent thinking in cognitive psychology places the ___ firmly at the center of the learning experience.",
+      "options": [
+        "computer",
+        "parent",
+        "teacher",
+        "individual"
+      ],
+      "correct_answer": "individual"
+    },
+    {
+      "id": 86,
+      "question": "Which of the following is true?",
+      "options": [
+        "Learning depends on self-awareness",
+        "Learning is social",
+        "Learning is goal-oriented",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 87,
+      "question": "Learners may multitask when engaging in an online course, which could be resulting in ___.",
+      "options": [
+        "hyperfocus",
+        "better retrieval",
+        "shorter attention spans",
+        "None of the given"
+      ],
+      "correct_answer": "shorter attention spans"
+    },
+    {
+      "id": 88,
+      "question": "The brain can process ___ visual cues per hour!",
+      "options": [
+        "36",
+        "360",
+        "3600",
+        "36,000"
+      ],
+      "correct_answer": "36,000"
+    },
+    {
+      "id": 89,
+      "question": "Our brain has approximately ___ neurons that send information to one another.",
+      "options": [
+        "85 billion",
+        "85 million",
+        "85 lakhs",
+        "85,000"
+      ],
+      "correct_answer": "85 billion"
+    },
+    {
+      "id": 90,
+      "question": "___ is referring to learners' automatic performance on specific procedures with predetermined steps to be followed.",
+      "options": [
+        "chaining",
+        "automatization",
+        "framing",
+        "none of the above"
+      ],
+      "correct_answer": "chaining"
+    },
+    {
+      "id": 91,
+      "question": "The ___ Model for New Normal in Education has been designed by many educational institutions.",
+      "options": [
+        "Pedagogical",
+        "Readiness",
+        "Instructional",
+        "Systematic"
+      ],
+      "correct_answer": "Readiness"
+    },
+    {
+      "id": 92,
+      "question": "The most critical factor that plays a significant role in the success of any remote learning program is the ___.",
+      "options": [
+        "software used by teacher",
+        "readiness of the participants",
+        "personality of the teacher",
+        "the quality of schooling"
+      ],
+      "correct_answer": "readiness of the participants"
+    },
+    {
+      "id": 93,
+      "question": "The typical picture of a teacher being a ___ of knowledge to the students has been replaced.",
+      "options": [
+        "absorber",
+        "collector",
+        "exploiter",
+        "dispenser"
+      ],
+      "correct_answer": "dispenser"
+    },
+    {
+      "id": 94,
+      "question": "What does today's teacher need to be successful in the classroom?",
+      "options": [
+        "digital skills",
+        "life skills",
+        "communication skills",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 95,
+      "question": "Students who consider intelligence as a ___ entity tend to focus on their goals despite obstacles.",
+      "options": [
+        "malleable",
+        "rigid",
+        "God-given",
+        "unreliable"
+      ],
+      "correct_answer": "malleable"
+    },
+    {
+      "id": 96,
+      "question": "___ feedback to students is important for learning.",
+      "options": [
+        "clear",
+        "explanatory",
+        "timely",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 97,
+      "question": "Students tend to enjoy learning and have better outcomes when their motivation is more intrinsic than extrinsic.",
+      "options": [
+        "False",
+        "True"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "id": 98,
+      "question": "Long term goals are also called ___ goals.",
+      "options": [
+        "non urgent",
+        "principal",
+        "proximal",
+        "distal"
+      ],
+      "correct_answer": "distal"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is an example of a reward?",
+      "options": [
+        "clapping",
+        "giving money",
+        "giving a compliment",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 100,
+      "question": "______ is a teaching approach that generates feedback students can use to improve their performance.",
+      "options": [
+        "Assessment for performance",
+        "Assessment for marks",
+        "Assessment for rewards",
+        "Assessment for learning"
+      ],
+      "correct_answer": "Assessment for learning"
+    },
+    {
+      "id": 101,
+      "question": "Social cognition is the cognitive processes that influence ___.",
+      "options": [
+        "social schema",
+        "social behavior",
+        "social media",
+        "none of the above"
+      ],
+      "correct_answer": "social behavior"
+    },
+    {
+      "id": 102,
+      "question": "Smooth and adaptive social interactions depend on the recruitment of ___.",
+      "options": [
+        "perception",
+        "attention",
+        "language",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 103,
+      "question": "Which of the following abilities does not come under social cognition?",
+      "options": [
+        "rote memory",
+        "face processing",
+        "joint attention",
+        "moral reasoning"
+      ],
+      "correct_answer": "rote memory"
+    },
+    {
+      "id": 104,
+      "question": "Social cognition develops primarily in old age.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "id": 105,
+      "question": "A theory of mind refers to a person's ability to understand and think about the ___ of other people.",
+      "options": [
+        "biological states",
+        "mental states",
+        "physical traits",
+        "none of the above"
+      ],
+      "correct_answer": "mental states"
+    },
+    {
+      "id": 106,
+      "question": "The ___ theory details the processes of observational learning and modeling, and the influence of self-efficacy on the production of behavior.",
+      "options": [
+        "behavioral",
+        "socio-emotional",
+        "social-cognitive",
+        "cognitive-emotional"
+      ],
+      "correct_answer": "social-cognitive"
+    },
+    {
+      "id": 107,
+      "question": "___ processes account for the information that is selected for observation in the environment.",
+      "options": [
+        "motivational",
+        "production",
+        "retention",
+        "attentional"
+      ],
+      "correct_answer": "attentional"
+    },
+    {
+      "id": 108,
+      "question": "Children become more aggressive when they observe aggressive or violent models.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "id": 109,
+      "question": "The ___ model of observational learning involves real or fictional characters displaying behaviors in books, films, television programs, or online media.",
+      "options": [
+        "symbolic",
+        "live",
+        "verbal instructional",
+        "contextual"
+      ],
+      "correct_answer": "symbolic"
+    },
+    {
+      "id": 110,
+      "question": "___ refers to the anticipated consequences of a person's behavior.",
+      "options": [
+        "self-efficacy",
+        "expectations",
+        "intrinsic reinforcement",
+        "extrinsic reinforcement"
+      ],
+      "correct_answer": "expectations"
+    },
+    {
+      "id": 111,
+      "question": "Sustainability in the context of environmental sustainability is ____.",
+      "options": [
+        "multidimensional",
+        "bidimensional",
+        "unidimensional",
+        "none of the given"
+      ],
+      "correct_answer": "unidimensional"
+    },
+    {
+      "id": 112,
+      "question": "As discussed by the Brundtland commission, sustainable development was the solution to the problems of ____.",
+      "options": [
+        "poor health",
+        "recession",
+        "poverty",
+        "environmental degradation"
+      ],
+      "correct_answer": "environmental degradation"
+    },
+    {
+      "id": 113,
+      "question": "Environmental sustainability focuses on the impacts of processes, products and services on ____.",
+      "options": [
+        "biodiversity",
+        "ocean environment",
+        "air",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 114,
+      "question": "Social entrepreneurship is defined as solving social problems using ____.",
+      "options": [
+        "generational wealth",
+        "market-based methods",
+        "bank loans",
+        "magical methods"
+      ],
+      "correct_answer": "market-based methods"
+    },
+    {
+      "id": 115,
+      "question": "HESI stands for.",
+      "options": [
+        "Health and Education Sustainability Initiative",
+        "Higher Education Systematic Initiative",
+        "Higher Education Sustainability Initiative",
+        "none of the above"
+      ],
+      "correct_answer": "Higher Education Sustainability Initiative"
+    },
+    {
+      "id": 116,
+      "question": "Universal primary and secondary education is an outcome target of ___.",
+      "options": [
+        "SDG 1",
+        "SDG 2",
+        "SDG 3",
+        "SDG 4"
+      ],
+      "correct_answer": "SDG 4"
+    },
+    {
+      "id": 117,
+      "question": "___ is a target group for ESD for 2030 framework.",
+      "options": [
+        "policymakers",
+        "parents",
+        "institutional leaders",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 118,
+      "question": "Successful implementation of ESD requires a shift in focus to ___.",
+      "options": [
+        "learning",
+        "teaching",
+        "exploiting",
+        "reading"
+      ],
+      "correct_answer": "learning"
+    },
+    {
+      "id": 119,
+      "question": "___ competency refers to the ability to reflect on one's own role in community and society.",
+      "options": [
+        "self-awareness",
+        "emotional",
+        "normative",
+        "anticipatory"
+      ],
+      "correct_answer": "self-awareness"
+    },
+    {
+      "id": 120,
+      "question": "In 2021, the European Centre for the Development of Vocational Training published a skills forecast scenario on the likely employment and skills implications of the ___.",
+      "options": [
+        "European Greenhouse Initiative",
+        "European Green Deal",
+        "European Green Agreement",
+        "none of the above"
+      ],
+      "correct_answer": "European Green Deal"
+    }
+  ]
+}

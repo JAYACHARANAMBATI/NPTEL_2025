@@ -4,6 +4,7 @@ import QuizCard from "../components/QuizCard";
 import ResultScreen from "../components/ResultScreen";
 import wildlifeData from "../data/wildlife.json";
 import educationData from "../data/education.json";
+import psychologyData from "../data/psychology_of_learning_questions.json";
 import "../styles/quiz.css";
 
 function App() {
@@ -12,6 +13,12 @@ function App() {
   const [score, setScore] = useState(0);
   const [finished, setFinished] = useState(false);
   const [shuffledQuestions, setShuffledQuestions] = useState([]);
+
+  const exams = {
+    wildlife: wildlifeData,
+    education: educationData,
+    psychology: psychologyData,
+  };
 
   // Fisher-Yates shuffle algorithm
   const shuffleArray = (array) => {
@@ -25,16 +32,11 @@ function App() {
 
   const startExam = (exam) => {
     setSelectedExam(exam);
-    const questions = exam === "wildlife" ? wildlifeData.questions : educationData.questions;
+    const questions = exams[exam]?.questions || [];
     setShuffledQuestions(shuffleArray(questions));
     setCurrentQIndex(0);
     setScore(0);
     setFinished(false);
-  };
-
-  const exams = {
-    wildlife: wildlifeData,
-    education: educationData,
   };
 
   const handleAnswer = (isCorrect) => {
