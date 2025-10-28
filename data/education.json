@@ -1,0 +1,1424 @@
+{
+  "course": "Educational Leadership",
+  "total_questions": 120,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A leader can be anyone who serves as an effective ___.",
+      "options": [
+        "patriarch",
+        "narcissist",
+        "social change agent",
+        "politician",
+        "manipulator"
+      ],
+      "correct_answer": "social change agent"
+    },
+    {
+      "id": 2,
+      "question": "___ is the central concept in the case of leadership.",
+      "options": [
+        "Authority",
+        "Influence",
+        "Coercion",
+        "Knowledge",
+        "Relationship"
+      ],
+      "correct_answer": "Influence"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is the 21st century slogan for leadership that is replacing earlier emphasis on instructional leadership?",
+      "options": [
+        "'Leadership for learning'",
+        "'Leadership for power'",
+        "'Leadership for control'",
+        "'Leadership for educational institutes'",
+        "'Leadership for society'"
+      ],
+      "correct_answer": "'Leadership for learning'"
+    },
+    {
+      "id": 4,
+      "question": "The current focus of educational leadership is to produce ___ who can construct effective solutions for critical social problems.",
+      "options": [
+        "politicians",
+        "transactional leaders",
+        "transformational leaders",
+        "negotiable leaders",
+        "kings"
+      ],
+      "correct_answer": "transformational leaders"
+    },
+    {
+      "id": 5,
+      "question": "21st century leaders need to have ___ in addition to new knowledge and skills.",
+      "options": [
+        "low maturity",
+        "high emotional wisdom",
+        "low spiritual wisdom",
+        "high emotional immaturity",
+        "low adjustability"
+      ],
+      "correct_answer": "high emotional wisdom"
+    },
+    {
+      "id": 6,
+      "question": "Authentic learning is about ___",
+      "options": [
+        "developing the capability to give one's unique contribution to others",
+        "only taking new knowledge & skills for oneself",
+        "exclusively focusing on personal growth",
+        "learning from trustable sources",
+        "None of the above"
+      ],
+      "correct_answer": "developing the capability to give one's unique contribution to others"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is not linked with leadership?",
+      "options": [
+        "Influence",
+        "Values",
+        "Ethics",
+        "Vision",
+        "Oppression"
+      ],
+      "correct_answer": "Oppression"
+    },
+    {
+      "id": 8,
+      "question": "One of the goals of present day educational leadership is to build a ___ as a ___.",
+      "options": [
+        "toxic culture, treatment for the organization",
+        "pessimist culture, way of life",
+        "learning culture, method of forcing employees",
+        "learning culture, way of life",
+        "college, way of life"
+      ],
+      "correct_answer": "learning culture, way of life"
+    },
+    {
+      "id": 9,
+      "question": "An issue of educational leadership is providing a ___ driven vision.",
+      "options": [
+        "power",
+        "politics",
+        "value",
+        "control",
+        "authority"
+      ],
+      "correct_answer": "value"
+    },
+    {
+      "id": 10,
+      "question": "In the PRES model of authentic leadership, S stands for ___.",
+      "options": [
+        "self-expression",
+        "self-control",
+        "self-love",
+        "self-knowledge",
+        "stability"
+      ],
+      "correct_answer": "self-knowledge"
+    },
+    {
+      "id": 11,
+      "question": "Capable Educational leaders need to possess---",
+      "options": [
+        "Good listening skills",
+        "Emotional intelligence",
+        "Ability to generate positive changes",
+        "Ability for critical reflection & future vision",
+        "All the above"
+      ],
+      "correct_answer": "All the above"
+    },
+    {
+      "id": 12,
+      "question": "Positional authority is independent of Leadership but not related to---",
+      "options": [
+        "Influencing people",
+        "Judging others",
+        "Intention to achieve",
+        "Values, ethics & vision",
+        "Policy making"
+      ],
+      "correct_answer": "Judging others"
+    },
+    {
+      "id": 13,
+      "question": "Professional Education is concerned with the following main aspects of development except ___.",
+      "options": [
+        "professional knowledge base",
+        "ability to exert control",
+        "competence in professional action",
+        "development of reflection"
+      ],
+      "correct_answer": "ability to exert control"
+    },
+    {
+      "id": 14,
+      "question": "CPD stands for ___",
+      "options": [
+        "Collaborative Professional Development",
+        "Continuous Professional Development",
+        "Continuous Pedagogical Development",
+        "Critical Personal Development",
+        "None of the above"
+      ],
+      "correct_answer": "Continuous Professional Development"
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is not a characteristic of 21st century learners?",
+      "options": [
+        "Tech-savvy",
+        "Creative",
+        "Networks",
+        "Reliant on media",
+        "Maladaptive"
+      ],
+      "correct_answer": "Maladaptive"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a characteristic of 21st century educators?",
+      "options": [
+        "self-centric",
+        "resistor",
+        "adapting to ICT",
+        "fixed on one curriculum or learning style",
+        "self-absorbed"
+      ],
+      "correct_answer": "adapting to ICT"
+    },
+    {
+      "id": 17,
+      "question": "In learner-centric systems, active learning can be encouraged by using ___",
+      "options": [
+        "game-based learning",
+        "mobile apps",
+        "flipped classes",
+        "None of the above",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 18,
+      "question": "Thinking about teaching & always improving it in innovative ways is called ___ .",
+      "options": [
+        "Reflective practice",
+        "Retractive practice",
+        "Refractive practice",
+        "Learning pedagogy",
+        "None of the above"
+      ],
+      "correct_answer": "Reflective practice"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is not one of the steps in the 5-step model of problem solving?",
+      "options": [
+        "Hypothesizing",
+        "Reasoning",
+        "Putting up questions",
+        "Testing",
+        "Incubation"
+      ],
+      "correct_answer": "Incubation"
+    },
+    {
+      "id": 20,
+      "question": "Highest level of reflection leads to ___",
+      "options": [
+        "worthwhileness",
+        "worthlessness",
+        "worthiness",
+        "reflective actualization",
+        "none of the above"
+      ],
+      "correct_answer": "worthwhileness"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is not one of the perspectives given by Brookfield for reflective practice?",
+      "options": [
+        "practitioners",
+        "colleagues",
+        "society",
+        "learners",
+        "established theory"
+      ],
+      "correct_answer": "society"
+    },
+    {
+      "id": 22,
+      "question": "The ___ area of the Johari window refers to the area that you are unaware of and that can be reduced by asking others for more transparent feedback.",
+      "options": [
+        "open",
+        "blind",
+        "hidden",
+        "unknown",
+        "none of the above"
+      ],
+      "correct_answer": "blind"
+    },
+    {
+      "id": 23,
+      "question": "'Problem-based learning' focuses on ---",
+      "options": [
+        "Course completion & examination",
+        "Students need to demonstrate curricular activities",
+        "Teachers to teach less and learn more",
+        "Students need to demonstrate domain-specific knowledge",
+        "Certification of degrees by colleges",
+        "Students learn through analyzing & solving a problem"
+      ],
+      "correct_answer": "Students learn through analyzing & solving a problem"
+    },
+    {
+      "id": 24,
+      "question": "The concept of Continuous Professional development comprehensively means---",
+      "options": [
+        "Pedagogical skill development",
+        "Professional action",
+        "Updated curricula & technology",
+        "Academic environment",
+        "Enhancing effectiveness as a researcher & teacher",
+        "Qualifying for Teaching license"
+      ],
+      "correct_answer": "Enhancing effectiveness as a researcher & teacher"
+    },
+    {
+      "id": 25,
+      "question": "___ in education are valuable code of conducts exhibited & enforced by teachers in relation to the students, colleges, community and to oneself for positive educational consequences.",
+      "options": [
+        "Professional ethics",
+        "Formal rules",
+        "Violations",
+        "Professional relations",
+        "Committee relations"
+      ],
+      "correct_answer": "Professional ethics"
+    },
+    {
+      "id": 26,
+      "question": "The principles that teachers' Code of Professional Practice is to be based on include.",
+      "options": [
+        "accountability",
+        "service to the public",
+        "responsiveness to the Government & the needs of the public",
+        "fairness and integrity",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 27,
+      "question": "___ of educational institutes leading towards consequences like commercialization of degrees, low quality teaching and no job security is one of the current ethical challenges in the teaching profession.",
+      "options": [
+        "Personalization",
+        "Industrialization",
+        "Privatization",
+        "Institutionalization",
+        "None of the above"
+      ],
+      "correct_answer": "Privatization"
+    },
+    {
+      "id": 28,
+      "question": "Which of the following are current ethical issues and challenges in the teaching profession?",
+      "options": [
+        "Political interference",
+        "Corruption",
+        "Communication and cultural barriers",
+        "Only b and c",
+        "a, b and c"
+      ],
+      "correct_answer": "a, b and c"
+    },
+    {
+      "id": 29,
+      "question": "Each teacher has an obligation to ___ .",
+      "options": [
+        "disrespect the opinion that goes against their own",
+        "not care about students",
+        "encourage harassment at workplace",
+        "demonstrate high standards of professional practice",
+        "stay away from parents and guardians"
+      ],
+      "correct_answer": "demonstrate high standards of professional practice"
+    },
+    {
+      "id": 30,
+      "question": "The code of professional practice should be ___ .",
+      "options": [
+        "discriminatory",
+        "updated time to time",
+        "kept the same forever",
+        "optional for a teacher to follow or not",
+        "none of the above"
+      ],
+      "correct_answer": "updated time to time"
+    },
+    {
+      "id": 31,
+      "question": "Teachers serve the public interest by the following, except",
+      "options": [
+        "favoring certain students over others",
+        "being committed to students' learning",
+        "working in partnership with parents",
+        "exercising reasonable care",
+        "Collaborating with all stakeholders"
+      ],
+      "correct_answer": "favoring certain students over others"
+    },
+    {
+      "id": 32,
+      "question": "Teachers should",
+      "options": [
+        "ignore specific needs of pupils",
+        "motivate and inspire pupils",
+        "work only in isolation",
+        "not include parents in the process",
+        "decide which pupils they like and which they don't"
+      ],
+      "correct_answer": "motivate and inspire pupils"
+    },
+    {
+      "id": 33,
+      "question": "The process of ethical teaching should begin from pre-service studentship & ___",
+      "options": [
+        "stop there",
+        "continue for a year",
+        "continue till the teacher gets tired",
+        "continue throughout professional life",
+        "stop when the head asks"
+      ],
+      "correct_answer": "continue throughout professional life"
+    },
+    {
+      "id": 34,
+      "question": "At the time of ethical dilemma an inspirational leader should do---",
+      "options": [
+        "Clarify the facts & check the data",
+        "Take strategic decision & act upon carefully",
+        "Imagine several options for solutions",
+        "Evaluate options using different approaches",
+        "All the above"
+      ],
+      "correct_answer": "All the above"
+    },
+    {
+      "id": 35,
+      "question": "The educational leaders also must incorporate --- as part of their thinking & reasoning as ethics is at the core of a given human enterprise.",
+      "options": [
+        "cooperate & collaborate with other agencies",
+        "conditionally work with others",
+        "ethical analysis",
+        "engaging themselves in recreational activities",
+        "none of the above"
+      ],
+      "correct_answer": "ethical analysis"
+    },
+    {
+      "id": 36,
+      "question": "According to the ability model, emotional intelligence consists of 4 abilities given below, except.",
+      "options": [
+        "Perceiving emotions",
+        "Using emotions",
+        "Ignoring emotions",
+        "Understanding emotions",
+        "Managing emotions"
+      ],
+      "correct_answer": "Ignoring emotions"
+    },
+    {
+      "id": 37,
+      "question": "Who among the following gave the mixed model of intelligence and focused on the importance of emotional intelligence as compared to IQ?",
+      "options": [
+        "Goleman",
+        "Maslow",
+        "Salovey and Mayer",
+        "Watson",
+        "Freud"
+      ],
+      "correct_answer": "Goleman"
+    },
+    {
+      "id": 38,
+      "question": "Which leadership style gives the message: 'try this'",
+      "options": [
+        "Coercive",
+        "Authoritative",
+        "Democratic",
+        "Affiliative",
+        "Coaching"
+      ],
+      "correct_answer": "Coaching"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is not a trait of transformational leaders?",
+      "options": [
+        "Idealized influence",
+        "Inspirational motivation",
+        "Coercive authority",
+        "Individualized consideration",
+        "Intellectual Stimulation"
+      ],
+      "correct_answer": "Coercive authority"
+    },
+    {
+      "id": 40,
+      "question": "___ is a social process by which emotions are shared collectively across a group in a social context.",
+      "options": [
+        "Social emotion",
+        "Emotional labor",
+        "Emotional regulation",
+        "Emotional socialization",
+        "Emotional contagion"
+      ],
+      "correct_answer": "Emotional contagion"
+    },
+    {
+      "id": 41,
+      "question": "___ includes modifying initial feelings by changing the situation or cognitions of the situation",
+      "options": [
+        "Response-focused regulation",
+        "Social regulation",
+        "Emotional labor",
+        "Antecedent-focused regulation",
+        "Social awareness"
+      ],
+      "correct_answer": "Antecedent-focused regulation"
+    },
+    {
+      "id": 42,
+      "question": "___ is when people change their outward emotional expressions without feeling the actual emotion they show.",
+      "options": [
+        "deep acting",
+        "depth acting",
+        "surface acting",
+        "small acting",
+        "none of the above"
+      ],
+      "correct_answer": "surface acting"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following leadership styles can result in people get overwhelmed & burnt out",
+      "options": [
+        "Pace-setting",
+        "Coaching",
+        "Democratic",
+        "Affiliative",
+        "Authoritative"
+      ],
+      "correct_answer": "Pace-setting"
+    },
+    {
+      "id": 44,
+      "question": "___ is the public face of emotion in leadership.",
+      "options": [
+        "Emotional awareness",
+        "Social regulation",
+        "Sympathy",
+        "Emotional labor",
+        "None of the above"
+      ],
+      "correct_answer": "Emotional labor"
+    },
+    {
+      "id": 45,
+      "question": "Leaders high on empathy will prefer to use ___.",
+      "options": [
+        "surface acting",
+        "sympathy",
+        "anger",
+        "deep acting",
+        "coercion"
+      ],
+      "correct_answer": "deep acting"
+    },
+    {
+      "id": 46,
+      "question": "Emotional intelligence is a crucial component of ___.",
+      "options": [
+        "Analytical intelligence",
+        "Divergent thinking",
+        "Social intelligence",
+        "Convergent thinking",
+        "Creative interests"
+      ],
+      "correct_answer": "Social intelligence"
+    },
+    {
+      "id": 47,
+      "question": "Accurately labeling emotion is also called as ___.",
+      "options": [
+        "Emotional expertise",
+        "Emotional awareness",
+        "Emotional contagion",
+        "Empathy",
+        "Emotional literacy"
+      ],
+      "correct_answer": "Emotional literacy"
+    },
+    {
+      "id": 48,
+      "question": "___ is the type of diversity in the context of education which refers to the numerical & proportional representation of students from diverse groups in the student population",
+      "options": [
+        "Structural diversity",
+        "Numerical diversity",
+        "Proportionate diversity",
+        "Interactional diversity",
+        "Constructional diversity"
+      ],
+      "correct_answer": "Structural diversity"
+    },
+    {
+      "id": 49,
+      "question": "Each type of diversity is ___",
+      "options": [
+        "complementary to each other",
+        "competitive in nature",
+        "independent of each other",
+        "detrimental to each other",
+        "none of the above"
+      ],
+      "correct_answer": "complementary to each other"
+    },
+    {
+      "id": 50,
+      "question": "___ refers to an understanding that certain common values exist across diverse ethnic groups & group conflict often can be constructive if used appropriately",
+      "options": [
+        "Civic engagement",
+        "Compatibility of differences",
+        "Cultural engagement",
+        "Learning outcomes",
+        "Differential engagement"
+      ],
+      "correct_answer": "Compatibility of differences"
+    },
+    {
+      "id": 51,
+      "question": "Major transformations in knowledge sector due to globalization and IT revolution include ___",
+      "options": [
+        "virtual universities",
+        "e-courses",
+        "app based learning",
+        "online packages",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 52,
+      "question": "In India, the Ministry of Human Resource Development has taken some initiatives like implementing NAB, where NAB stands for",
+      "options": [
+        "National Award Board",
+        "National Award Bureau",
+        "National Accreditation Bureau",
+        "National Acceptance Board",
+        "National Accreditation Board"
+      ],
+      "correct_answer": "National Accreditation Board"
+    },
+    {
+      "id": 53,
+      "question": "Due to escalating fees in developed nations, the students from these countries are choosing to study & take their degrees from ___",
+      "options": [
+        "reputed institutes of developing Asian countries",
+        "online courses",
+        "both a & b",
+        "none of the above"
+      ],
+      "correct_answer": "both a & b"
+    },
+    {
+      "id": 54,
+      "question": "Which of the following has been observed to be true for new generation learners?",
+      "options": [
+        "expect a pass for anything they submit, irrespective of its quality",
+        "not as self-reliant as the previous generations",
+        "use the peer group reference for making any academic decision like where to enroll & which subject to take",
+        "only c",
+        "a, b and c"
+      ],
+      "correct_answer": "a, b and c"
+    },
+    {
+      "id": 55,
+      "question": "The higher education sector of which countries is larger than that of India?",
+      "options": [
+        "China and the U.S.A.",
+        "Japan and China",
+        "China and Singapore",
+        "USA and Bangladesh",
+        "Canada and Singapore"
+      ],
+      "correct_answer": "China and the U.S.A."
+    },
+    {
+      "id": 56,
+      "question": "Taiwan being the major designer of IT hardware is also considering the making of ___ by merging some of its top technological universities",
+      "options": [
+        "'Asian MIT'",
+        "'Asian Oxford'",
+        "'Asian Harvard'",
+        "'Asian Cambridge'",
+        "None of the above"
+      ],
+      "correct_answer": "'Asian MIT'"
+    },
+    {
+      "id": 57,
+      "question": "The three major areas to be considered in the pedagogical approach of enhancing students' understanding of international contexts, competition & the meaning of globalization include the following except",
+      "options": [
+        "linguistics",
+        "money",
+        "curriculum",
+        "leadership"
+      ],
+      "correct_answer": "money"
+    },
+    {
+      "id": 58,
+      "question": "___ refers to constantly questioning, examining the evidence, arguments, methods & reliability of findings",
+      "options": [
+        "Criticism",
+        "Skepticism",
+        "Accountability",
+        "Conviction",
+        "Paradigm"
+      ],
+      "correct_answer": "Skepticism"
+    },
+    {
+      "id": 59,
+      "question": "The ___ purpose of educational research concerns gaining familiarity with a relatively new topic and discovering its various dimensions",
+      "options": [
+        "exploratory",
+        "descriptive",
+        "explanatory",
+        "evaluation",
+        "none of the above"
+      ],
+      "correct_answer": "exploratory"
+    },
+    {
+      "id": 60,
+      "question": "___ is a measure of association that tests whether a relationship exists between two variables",
+      "options": [
+        "Experiment",
+        "Survey",
+        "Interview",
+        "Causation",
+        "Correlation"
+      ],
+      "correct_answer": "Correlation"
+    },
+    {
+      "id": 61,
+      "question": "___ is any systematic enquiry conducted by teacher researchers, principals, counsellors or any stakeholders in the teaching-learning environment to gather information about how their institutions operate, how they teach and how well their students learn",
+      "options": [
+        "Action research",
+        "Correlation",
+        "Reaction research",
+        "Experimentation",
+        "Focus research"
+      ],
+      "correct_answer": "Action research"
+    },
+    {
+      "id": 62,
+      "question": "Doctoral research is affected by ___",
+      "options": [
+        "Massification of higher education",
+        "Politics",
+        "Funding sources",
+        "Employer demands",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 63,
+      "question": "___ pedagogy endorses students' ability to think critically about their education situation which allows them to recognize connections between their individual problems and experiences & the social contexts in which they are embedded",
+      "options": [
+        "Criticism",
+        "Critical",
+        "Crucial",
+        "None of the above"
+      ],
+      "correct_answer": "Critical"
+    },
+    {
+      "id": 64,
+      "question": "The deep learning skill of citizenship includes the following, except ___",
+      "options": [
+        "global knowledge",
+        "cultural sensitivity",
+        "perseverance",
+        "environmental sustainability"
+      ],
+      "correct_answer": "perseverance"
+    },
+    {
+      "id": 65,
+      "question": "Which of the following is not a principle of new pedagogies?",
+      "options": [
+        "Partnership & Transparency in Projects' Operating Model",
+        "Continuous Learning & Research",
+        "Mobilization Model to be usable & expandable",
+        "An independent project done in isolation"
+      ],
+      "correct_answer": "An independent project done in isolation"
+    },
+    {
+      "id": 66,
+      "question": "Which of the following is not a deep learning skill?",
+      "options": [
+        "Collaboration",
+        "Creativity and imagination",
+        "Critical thinking",
+        "Communication",
+        "Rigidity"
+      ],
+      "correct_answer": "Rigidity"
+    },
+    {
+      "id": 67,
+      "question": "New pedagogies require students to create new knowledge & connect it to the world by using the power of ___",
+      "options": [
+        "money",
+        "energy",
+        "digital tools",
+        "books",
+        "libraries"
+      ],
+      "correct_answer": "digital tools"
+    },
+    {
+      "id": 68,
+      "question": "The new paradigms of education advocate for ___",
+      "options": [
+        "'No child left behind'",
+        "Personalized learning assistance",
+        "Quality education to all",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is true for metacognition?",
+      "options": [
+        "It occurs before the cognitive event",
+        "It occurs after the cognitive event",
+        "It occurs simultaneously with the cognitive event",
+        "It can occur before the event, after the event or simultaneously",
+        "none of the above"
+      ],
+      "correct_answer": "It can occur before the event, after the event or simultaneously"
+    },
+    {
+      "id": 70,
+      "question": "___ knowledge is knowing about when & why declarative & procedural knowledge are relevant to tasks (effective strategies)",
+      "options": [
+        "Conceptual",
+        "Contextual",
+        "Conditional",
+        "Causational",
+        "Creative"
+      ],
+      "correct_answer": "Conditional"
+    },
+    {
+      "id": 71,
+      "question": "___ is the fit between meta-cognition & performance",
+      "options": [
+        "Calibration",
+        "Meta-cognitive monitoring",
+        "Meta-cognitive control",
+        "Self-regulated learning",
+        "Correlation"
+      ],
+      "correct_answer": "Calibration"
+    },
+    {
+      "id": 72,
+      "question": "Which of the following is not a dimension of the learning environment focused on by cognitive apprenticeship?",
+      "options": [
+        "Content",
+        "Method",
+        "Sequence",
+        "Sociology",
+        "Communication"
+      ],
+      "correct_answer": "Communication"
+    },
+    {
+      "id": 73,
+      "question": "Which of the following is an experiential learning method?",
+      "options": [
+        "Role-play",
+        "Visualization",
+        "Simulation",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 74,
+      "question": "___ learning includes presentation of lessons through multimedia material i.e. text, animation, graphics, video & sound",
+      "options": [
+        "Problem-based",
+        "Web-based",
+        "Information-based",
+        "Collaborative",
+        "None of the above"
+      ],
+      "correct_answer": "Web-based"
+    },
+    {
+      "id": 75,
+      "question": "Games are based on the theory of ___ as they use fantasy, control, challenge, curiosity & adventure to motivate players.",
+      "options": [
+        "fantasy",
+        "extrinsic motivation",
+        "intrinsic motivation",
+        "imagination",
+        "none of the above"
+      ],
+      "correct_answer": "intrinsic motivation"
+    },
+    {
+      "id": 76,
+      "question": "Which of the following is an innovative pedagogy of learning?",
+      "options": [
+        "Game-based learning",
+        "Mobile learning",
+        "Puzzle-based learning",
+        "Project – based Learning",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 77,
+      "question": "In ___ model of blended learning, most learning is done in the online environment; face-to-face teaching is still available, but for small groups / individuals on a requirement basis.",
+      "options": [
+        "online lab",
+        "rotation",
+        "flex",
+        "self-blend",
+        "online driver"
+      ],
+      "correct_answer": "flex"
+    },
+    {
+      "id": 78,
+      "question": "Turnaround Leadership brings together a distinct profile of ___ & cognitive ability",
+      "options": [
+        "emotional intelligence",
+        "musical intelligence",
+        "spatial intelligence",
+        "naturalistic intelligence",
+        "none of the above"
+      ],
+      "correct_answer": "emotional intelligence"
+    },
+    {
+      "id": 79,
+      "question": "Which of the following is a role taken up by turnaround leaders?",
+      "options": [
+        "Learn",
+        "Teach",
+        "Model",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 80,
+      "question": "___ means possessing requisite capacity & knowledge required for management, possessing the key skills & knowledge required to deliver the tasks that make up the specific job",
+      "options": [
+        "Competence",
+        "Interest",
+        "Cognitive capacity",
+        "Creative intelligence",
+        "None of the above"
+      ],
+      "correct_answer": "Competence"
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is not a dimension of the 'Turnaround Academic Leadership Capability Framework'?",
+      "options": [
+        "Personal capabilities",
+        "Interpersonal capabilities",
+        "Cognitive capabilities",
+        "Role-specific competencies",
+        "Athletic competencies"
+      ],
+      "correct_answer": "Athletic competencies"
+    },
+    {
+      "id": 82,
+      "question": "ICT for supporting learning on-line courses for distance – learning through ______",
+      "options": [
+        "multimedia resources",
+        "e-conferencing & video conferences",
+        "discussion forums",
+        "live lectures (Video streaming)",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 83,
+      "question": "Turnaround leaders can manage relationships with stakeholders through ___",
+      "options": [
+        "Building a sustainable learning community",
+        "Monitoring & self-evaluation",
+        "Networking with other agencies",
+        "Performance evaluation & management",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 84,
+      "question": "___ is the term for using a combination of competition & cooperation for bringing change within the system",
+      "options": [
+        "Compete-eration",
+        "Co-opetitions",
+        "Collaborative competition",
+        "Combinative cooperation",
+        "None of the above"
+      ],
+      "correct_answer": "Co-opetitions"
+    },
+    {
+      "id": 85,
+      "question": "Which of the following is not an attitude under the 'Entrepreneurship Competencies Model'?",
+      "options": [
+        "Self-efficacy",
+        "Proactiveness",
+        "Procrastination",
+        "Innovativeness",
+        "Perseverance"
+      ],
+      "correct_answer": "Procrastination"
+    },
+    {
+      "id": 86,
+      "question": "___ is a factor in the 'Academic Entrepreneurship-cum-Performance' model",
+      "options": [
+        "Academic mindset",
+        "Academic perseverance",
+        "Academic behaviors",
+        "Social skills",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 87,
+      "question": "By taking the role of a ___, educational entrepreneurs demonstrate what is possible when resources are used differently & point the way toward how policy & practice might be changed in the light of what they accomplish",
+      "options": [
+        "change agent",
+        "content agent",
+        "context agent",
+        "private agent",
+        "none of the above"
+      ],
+      "correct_answer": "change agent"
+    },
+    {
+      "id": 88,
+      "question": "___ refers to independent learning where students learn at their own pace in different times and spaces.",
+      "options": [
+        "whenever and wherever learning",
+        "synchronous learning",
+        "asynchronous learning",
+        "paced learning",
+        "none of the above"
+      ],
+      "correct_answer": "asynchronous learning"
+    },
+    {
+      "id": 89,
+      "question": "Zoom, MS Teams or Google meet classes held during the pandemic refer to ___ type of learning.",
+      "options": [
+        "synchronous learning",
+        "asynchronous learning",
+        "synthetic learning",
+        "none of the above"
+      ],
+      "correct_answer": "synchronous learning"
+    },
+    {
+      "id": 90,
+      "question": "Which of the following is true regarding teachers' role in online learning during the pandemic?",
+      "options": [
+        "Increased focus on individual needs and learning styles",
+        "Increased expectancy to be available for students",
+        "Encourage collaboration for motivation",
+        "Encourage higher participation through creative methods",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 91,
+      "question": "Which of the following is not an effective way to motivate online learners?",
+      "options": [
+        "Establishing a sense of social isolation",
+        "Online collaboration",
+        "Prompt feedback",
+        "Designing and organizing activities"
+      ],
+      "correct_answer": "Establishing a sense of social isolation"
+    },
+    {
+      "id": 92,
+      "question": "Which of the following is not a component of the 3Cs useful in the post-pandemic new normal education setting?",
+      "options": [
+        "Consistency",
+        "Caste",
+        "Creativity",
+        "Community"
+      ],
+      "correct_answer": "Caste"
+    },
+    {
+      "id": 93,
+      "question": "High levels of digital task engagement may result in ___",
+      "options": [
+        "conceptual change",
+        "psychological well being",
+        "improved understanding about students'",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "id": 94,
+      "question": "Which of the following does not come under the 5E framework in the context of online flipped classes?",
+      "options": [
+        "engage",
+        "evacuate",
+        "explore",
+        "explain",
+        "evaluate"
+      ],
+      "correct_answer": "evacuate"
+    },
+    {
+      "id": 95,
+      "question": "Effective feedback is ___",
+      "options": [
+        "specific",
+        "descriptive",
+        "student-initiated",
+        "time appropriate",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 96,
+      "question": "Mid-term and end-term exams are types of ___",
+      "options": [
+        "summative assessment",
+        "collective assessment",
+        "formative assessment",
+        "none of the above"
+      ],
+      "correct_answer": "summative assessment"
+    },
+    {
+      "id": 97,
+      "question": "Before feedback can be given, ___ clarifies learning intentions for students and sets the context for feedback.",
+      "options": [
+        "feed-up",
+        "feedback loop",
+        "feed-forward",
+        "none of the above"
+      ],
+      "correct_answer": "feed-up"
+    },
+    {
+      "id": 98,
+      "question": "Andragogy means the understanding of the science and practice of ___",
+      "options": [
+        "adult learning",
+        "children learning",
+        "women learning",
+        "none of the above"
+      ],
+      "correct_answer": "adult learning"
+    },
+    {
+      "id": 99,
+      "question": "Which of the following is not a principle of andragogy?",
+      "options": [
+        "self-direction",
+        "experience",
+        "mentorship",
+        "transformation",
+        "physical orientation"
+      ],
+      "correct_answer": "physical orientation"
+    },
+    {
+      "id": 100,
+      "question": "The best micro-learning content is ____",
+      "options": [
+        "under 6 minutes",
+        "focused on a single concept",
+        "specific to an objective",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 101,
+      "question": "Which of the following is not among the key metrics to show which courses are engaging learners, and which could use an instructional-design rethink?",
+      "options": [
+        "total time spent learning",
+        "learner progress",
+        "qualitative feedback",
+        "assessment breakdowns",
+        "number of books purchased by learner"
+      ],
+      "correct_answer": "number of books purchased by learner"
+    },
+    {
+      "id": 102,
+      "question": "Learning transfer is a process of ___",
+      "options": [
+        "rote learning, memorizing and processing",
+        "memorizing, resting and applying",
+        "internalizing, ignoring, processing",
+        "comprehending, evaluating, applying",
+        "internalizing, comprehending and applying"
+      ],
+      "correct_answer": "internalizing, comprehending and applying"
+    },
+    {
+      "id": 103,
+      "question": "The solution for the learning need of willingness is ___",
+      "options": [
+        "just-in-time learning",
+        "learner-analytics",
+        "social learning environment",
+        "transferable skills"
+      ],
+      "correct_answer": "transferable skills"
+    },
+    {
+      "id": 104,
+      "question": "Which of the following is a benefit of using LMS for self-paced learning?",
+      "options": [
+        "collaborative social learning tools",
+        "chatting about ideas",
+        "useful resources",
+        "discussing difficult chapters",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 105,
+      "question": "Which of the following is not used to fulfill the need for learning by doing?",
+      "options": [
+        "simulations",
+        "animations",
+        "interactive-activities",
+        "experiential exercises",
+        "lectures"
+      ],
+      "correct_answer": "lectures"
+    },
+    {
+      "id": 106,
+      "question": "___ is also called \"Self-determined Learning\".",
+      "options": [
+        "Heutagogy",
+        "Pedagogy",
+        "Ontology",
+        "Andragogy",
+        "None of the above"
+      ],
+      "correct_answer": "Heutagogy"
+    },
+    {
+      "id": 107,
+      "question": "Which of the following is an example of lifelong learning?",
+      "options": [
+        "developing a skill of cooking",
+        "learning a new language",
+        "learning how to use a new phone",
+        "enrolling in an educational degree",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    },
+    {
+      "id": 108,
+      "question": "NEP 2020 intends to achieve primarily which of the following Sustainable Development Goals (SDG)?",
+      "options": [
+        "SDG 4: Inclusive and equitable quality education",
+        "SDG 6: Clean water and sanitation",
+        "SDG 8: Decent work and economic growth",
+        "none of the above"
+      ],
+      "correct_answer": "SDG 4: Inclusive and equitable quality education"
+    },
+    {
+      "id": 109,
+      "question": "Which of the following is not included as a stage in the structure recommended by NEP 2020?",
+      "options": [
+        "Preparatory",
+        "Foundational",
+        "Secondary",
+        "Middle",
+        "Senior"
+      ],
+      "correct_answer": "Senior"
+    },
+    {
+      "id": 110,
+      "question": "What is the full form of NTA?",
+      "options": [
+        "New Testing Act",
+        "National Testing Act",
+        "New Testing Agency",
+        "National Testing Agency",
+        "None of the above"
+      ],
+      "correct_answer": "National Testing Agency"
+    },
+    {
+      "id": 111,
+      "question": "In higher education system, the expected student-faculty ratio is ____",
+      "options": [
+        "2:1",
+        "5:1",
+        "10:1",
+        "20:1",
+        "30:1"
+      ],
+      "correct_answer": "30:1"
+    },
+    {
+      "id": 112,
+      "question": "Which of the following is not a merit of higher education policies in NEP 2020?",
+      "options": [
+        "student-centric",
+        "bureaucratic",
+        "autonomic",
+        "research and innovation focused"
+      ],
+      "correct_answer": "bureaucratic"
+    },
+    {
+      "id": 113,
+      "question": "Contemplative education is a philosophy of higher education that integrates ___ and ___ into academic study.",
+      "options": [
+        "introspection and passive learning",
+        "networking and experiential learning",
+        "passive learning and assessment",
+        "introspection and experiential learning"
+      ],
+      "correct_answer": "introspection and experiential learning"
+    },
+    {
+      "id": 114,
+      "question": "Broadly, there are ____ main ways that contemplative practices are incorporated",
+      "options": [
+        "two",
+        "three",
+        "ten",
+        "five",
+        "fifteen"
+      ],
+      "correct_answer": "three"
+    },
+    {
+      "id": 115,
+      "question": "SEL stands for ____",
+      "options": [
+        "self-efficacy in learning",
+        "social effective learning",
+        "standard emotional learning",
+        "social-emotional learning"
+      ],
+      "correct_answer": "social-emotional learning"
+    },
+    {
+      "id": 116,
+      "question": "Open awareness (in the context of mindfulness) is also known as ____",
+      "options": [
+        "open systems",
+        "open mindedness",
+        "openness",
+        "open monitoring"
+      ],
+      "correct_answer": "open monitoring"
+    },
+    {
+      "id": 117,
+      "question": "___ component of transformative learning refers to experiences narrated/explained in a logical and rational manner that can bring about transformative learning.",
+      "options": [
+        "rational disclosure",
+        "critical reflection",
+        "centrality of experience",
+        "disorienting dilemma",
+        "none of the above"
+      ],
+      "correct_answer": "rational disclosure"
+    },
+    {
+      "id": 118,
+      "question": "The Sustainable Development Goals (SDGs), were adopted by all United Nations Member States in ___",
+      "options": [
+        "2015",
+        "2010",
+        "2019",
+        "2022",
+        "2023"
+      ],
+      "correct_answer": "2015"
+    },
+    {
+      "id": 119,
+      "question": "SDGs replaced MDGs. In this context, what is the full form of 'MDGs'?",
+      "options": [
+        "Massive Development Goals",
+        "Millennium Development Goals",
+        "Micro Development Goals",
+        "None of the above"
+      ],
+      "correct_answer": "Millennium Development Goals"
+    },
+    {
+      "id": 120,
+      "question": "The aim of SDG 2 is ___",
+      "options": [
+        "end hunger",
+        "achieve food security",
+        "achieve improved nutrition",
+        "promote sustainable agriculture",
+        "all of the above"
+      ],
+      "correct_answer": "all of the above"
+    }
+  ]
+}
